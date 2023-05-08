@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MubDubs
+- 👋 Hi, I’m @kyjones03
 - 👀 I’m interested in full or hybrid cloud infrastructure with a focus on the Azure platform.
-- 🌱 I’m currently learning CI/CD, DevOps, and architecture best practice.
+- 🌱 I’m currently learning Azure Bicep and building repositories for labs and my cloud engineers.
 - 💞️ I’m looking to collaborate on updating personal repositories to supply customers with proof-of-concept deployments.
 
 <!---
